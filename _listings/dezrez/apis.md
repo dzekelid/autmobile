@@ -24,6 +24,30 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/apiglobalsearchsuggest-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/apiglobalsearchsuggest-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Auto complete global search
+  x-api-slug: apiglobalsearchsuggest-get
+  description: Auto complete global search.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/apiglobalsearchsuggest-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/apiglobalsearchsuggest-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Auto complete global search
+  x-api-slug: apiglobalsearchsuggest-get
+  description: Auto complete global search.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/apiglobalsearchsuggest-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/apiglobalsearchsuggest-get-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez
