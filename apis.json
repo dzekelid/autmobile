@@ -1,0 +1,318 @@
+{
+	"name": "Streadata.io API Gallery - Autmobile",
+	"description": "This is a repository of autmobile APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/autmobile.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://autmobile.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DataOne",
+			"x-api-slug": "dataone",
+			"description": "VIN decoding, automotive database and software products to power your portals and business solutions - CRM, IVM, Web, & Mobile.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1003-dataone.jpg",
+			"humanURL": "http://www.dataonesoftware.com/",
+			"baseURL": "https:///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dataone/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CarQuery",
+			"x-api-slug": "carquery",
+			"description": "CarQuery is an easy to use JSON based API for retrieving detailed car information, including year, make, model, trim, and specifications such as horsepower, torque, msrp, top speed, fuel economy mpg, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1856-carquery.jpg",
+			"humanURL": "http://www.carqueryapi.com",
+			"baseURL": "https:///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/carquery/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FUEL",
+			"x-api-slug": "fuel",
+			"description": "Search, download, and serve thousands of photos and videos with an innovative API powered by EVOX Images, the ultimate source and leader in automotive imagery.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9099-fuel.jpg",
+			"humanURL": "http://fuelapi.com",
+			"baseURL": "https:///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/fuel/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"x-api-slug": "aws-elastic-beanstalk",
+			"description": "AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java,.NET, PHP, Node.js, Python, Ruby, Go, andDockeron familiar servers such as Apache, Nginx, Passenger, andIIS.You can simply upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time.There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png",
+			"humanURL": "https://aws.amazon.com/elasticbeanstalk/",
+			"baseURL": ":///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-elastic-beanstalk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"x-api-slug": "aws-ec2-systems-manager",
+			"description": "Amazon EC2 Systems Manager is a management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems. These capabilities help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. By providing a management approach that is designed for the scale and agility of the cloud but extends into your on-premises data center, EC2 Systems Manager makes it easier for you to seamlessly bridge your existing infrastructure with AWS.EC2 Systems Manager is easy to use. Simply access EC2 Systems Manager from the EC2 Management Console, select the instances you want to manage, and define the management tasks you want to perform. EC2 Systems Manager is available now at no cost to manage both your EC2 and on-premises resources.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/systems-manager/",
+			"baseURL": ":///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-ec2-systems-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS OpsWorks",
+			"x-api-slug": "aws-opsworks",
+			"description": "AWS OpsWorks is a configuration management service that uses Chef, an automation platform that treats server configurations as code. OpsWorks uses Chef to automate how servers are configured, deployed, and managed across your Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises compute environments. OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png",
+			"humanURL": "https://aws.amazon.com/opsworks/",
+			"baseURL": ":///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-opsworks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Elastic MapReduce",
+			"x-api-slug": "aws-elastic-mapreduce",
+			"description": "Amazon EMR provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. You can also run other popular distributed frameworks such as Apache Spark, HBase, Presto, and Flink in Amazon EMR, and interact with data in other AWS data stores such as Amazon S3 and Amazon DynamoDB.Amazon EMR securely and reliably handles a broad set of big data use cases, including log analysis, web indexing, data transformations (ETL), machine learning, financial analysis, scientific simulation, and bioinformatics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png",
+			"humanURL": "https://aws.amazon.com/emr/",
+			"baseURL": ":///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-elastic-mapreduce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS WorkSpaces",
+			"x-api-slug": "aws-workspaces",
+			"description": "Amazon WorkSpaces is a fully managed, secure desktop computing service which runs on the AWS cloud. Amazon WorkSpaces allows you to easily provision cloud-based virtual desktops and provide your users access to the documents, applications, and resources they need from any supported device, including Windows and Mac computers, Chromebooks, iPads, Fire tablets, Android tablets, and Chrome and Firefox web browsers. With just a few clicks in the AWS Management Console, you can deploy high-quality cloud desktops for any number of users. With Amazon WorkSpaces, you pay either monthly or hourly just for the Amazon WorkSpaces you launch, which helps you save money when compared to traditional desktops and on-premises Virtual Desktop Infrastructure (VDI) solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkSpaces.png",
+			"humanURL": "https://aws.amazon.com/workspaces/",
+			"baseURL": ":///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-workspaces/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Auto Scaling",
+			"x-api-slug": "aws-auto-scaling",
+			"description": "Auto Scaling helps you maintain application availability and allows you to scale yourAmazon EC2capacity up or down automatically according to conditions you define. You can use Auto Scaling to help ensure that you are running your desired number of Amazon EC2 instances. Auto Scaling can also automatically increase the number of Amazon EC2 instances during demand spikes to maintain performance and decrease capacity during lulls to reduce costs. Auto Scaling is well suited both to applications that have stable demand patterns or that experience hourly, daily, or weekly variability in usage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png",
+			"humanURL": "https://aws.amazon.com/autoscaling/",
+			"baseURL": ":///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-auto-scaling/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Amadeus",
+			"x-api-slug": "amadeus",
+			"description": "Amadeus travel technology helps businesses connect to the global travel ecosystem, manage operations more effectively and serve travellers better than ever",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg",
+			"humanURL": "https://amadeus.com",
+			"baseURL": "https://api.sandbox.amadeus.com//v1.2",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/amadeus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lufthansa",
+			"x-api-slug": "lufthansa",
+			"description": "Book your flights to Germany, Italy, UK or France online at attractive low fares. Fly via Frankfurt, Munich or Zurich - Lufthansa United States of America",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28453-lh-partner.jpg",
+			"humanURL": "http://lufthansa.com",
+			"baseURL": "https://api.lufthansa.com//v1",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/lufthansa/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayRun",
+			"x-api-slug": "payrun",
+			"description": "An open, scalable, transparent and HMRC accredited payroll API. Put the power of payroll into your application today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg",
+			"humanURL": "http://www.payrun.io",
+			"baseURL": "https://api.test.payrun.io//",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/payrun/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RipaEx",
+			"x-api-slug": "ripaex",
+			"description": "Ripa Exchange is an hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28880-ripaex-io.jpg",
+			"humanURL": "http://www.ripaex.io",
+			"baseURL": "https://api.ripaex.io//",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/ripaex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Autmobile",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Autmobile",
+	"include": [
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "DataOne",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dataone/apis.yaml"
+		},
+		{
+			"name": "CarQuery",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/carquery/apis.yaml"
+		},
+		{
+			"name": "FUEL",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/fuel/apis.yaml"
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-elastic-beanstalk/apis.yaml"
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-ec2-systems-manager/apis.yaml"
+		},
+		{
+			"name": "AWS OpsWorks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-opsworks/apis.yaml"
+		},
+		{
+			"name": "AWS Elastic MapReduce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-elastic-mapreduce/apis.yaml"
+		},
+		{
+			"name": "AWS WorkSpaces",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-workspaces/apis.yaml"
+		},
+		{
+			"name": "AWS Auto Scaling",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/aws-auto-scaling/apis.yaml"
+		},
+		{
+			"name": "Amadeus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/amadeus/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Lufthansa",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/lufthansa/apis.yaml"
+		},
+		{
+			"name": "PayRun",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/payrun/apis.yaml"
+		},
+		{
+			"name": "RipaEx",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/ripaex/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/autmobile/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
